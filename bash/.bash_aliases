@@ -30,6 +30,7 @@ alias la='ls -aF --color=auto --group-directories-first'
 alias ll='ls -lAhF --color=auto --group-directories-first --time-style=long-iso --ignore=lost+found'
 # Tree with colors, icons, and show git status
 alias lt='tree'
+alias lt2='tree -L2'
 alias lr='ls -AFR --color=auto --group-directories-first --time-style=long-iso --ignore=lost+found'
 
 # ---  FILE HANDLING  -----------------------------------
