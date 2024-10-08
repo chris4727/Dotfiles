@@ -2,15 +2,9 @@
 
 Personal dotfile repository.
 
-# TODO
+## General keybind scheme
 
-- [x] Setup Git Stow
-- [ ] Transfer existing dotfiles to this repository
-  - [ ] Git
-  - [x] Kitty
-  - [x] ls dircolors
-  - [ ] Others?
-  - [x] Bash
-  - [x] Tmux
-  - [x] Vim
-  - [x] Zathura pdf reader
+- `Super`: Window manager bindings
+- `Alt`: Tmux bindings
+- `Ctrl`: Individual application bindings
+- `Shift`: Modifies all of the above
